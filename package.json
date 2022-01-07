@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    
+    "start" : "parcel index.html",
+    "build" :"parcel build index.html"
+  },
+  "author": "udaykumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.1.0"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}

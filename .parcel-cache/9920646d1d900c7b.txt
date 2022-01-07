@@ -1,0 +1,32 @@
+31
+38/home/uday/Downloads/resume/index.html1641570664529329275 0
+44/home/uday/Downloads/resume/smooth-scroll.js1588016814000000000 0
+37/home/uday/Downloads/resume/style.css1641491824615447082 0
+35/home/uday/Downloads/resume/.vscode1641489590038564906 1
+40/home/uday/Downloads/resume/package.json1641571219396179470 0
+54/home/uday/Downloads/resume/dist/index.1807d5b4.js.map1641568299443502252 0
+54/home/uday/Downloads/resume/dist/mahilogo.c25ea9d5.png1641568299403501985 0
+51/home/uday/Downloads/resume/dist/index.de101254.css1641568299199500623 0
+50/home/uday/Downloads/resume/dist/index.1807d5b4.js1641568299395501932 0
+91/home/uday/Downloads/resume/dist/IMG_PITU_20190619_185742-removebg-preview (1).e6514db0.png1641568299403501985 0
+55/home/uday/Downloads/resume/dist/index.de101254.css.map1641568299207500676 0
+57/home/uday/Downloads/resume/dist/background.f6bb1b30.jpeg1641568299403501985 0
+42/home/uday/Downloads/resume/img/recpe1.jpg1640864994701099758 0
+52/home/uday/Downloads/resume/dist/recpe1.ea2c4a93.jpg1641568299447502279 0
+81/home/uday/Downloads/resume/img/IMG_PITU_20190619_185742-removebg-preview (1).png1640771038908595749 0
+92/home/uday/Downloads/resume/img/code-programming-graphic-design-template-vector-22805399.jpg1640775653955299353 0
+42/home/uday/Downloads/resume/img/footer.jpg1640789354150525723 0
+45/home/uday/Downloads/resume/package-lock.json1641490697986218832 0
+44/home/uday/Downloads/resume/img/UDAY (1).png1640775485990227726 0
+42/home/uday/Downloads/resume/img/recipe.png1640863624963150933 0
+43/home/uday/Downloads/resume/dist/index.html1641570664789330471 0
+27/home/uday/Downloads/resume1641491742546270708 1
+49/home/uday/Downloads/resume/img/food-delivery.jpg1640865660821604354 0
+50/home/uday/Downloads/resume/dist/mahi.583aeb72.jpg1641568299403501985 0
+40/home/uday/Downloads/resume/img/mahi.jpg1640773562753243852 0
+53/home/uday/Downloads/resume/dist/aamzon.fc809112.jpeg1641568299403501985 0
+44/home/uday/Downloads/resume/img/mahilogo.png1640775743569616464 0
+31/home/uday/Downloads/resume/img1641490993780654505 1
+47/home/uday/Downloads/resume/img/background.jpeg1640771396624741339 0
+43/home/uday/Downloads/resume/img/aamzon.jpeg1640864903205885038 0
+32/home/uday/Downloads/resume/dist1641570664789330471 1
